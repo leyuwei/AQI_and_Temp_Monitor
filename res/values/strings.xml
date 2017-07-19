@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">空指监测</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_hint_first_open">初次使用：应用应与空指检测仪进行配套使用，请您先在匹配设备界面中连接好蓝牙，再进行后续操作。\n蓝牙名称：PM-Mon\n连接好后请回到本应用进行后续操作，在检测仪数据上传完成后，应用将给过去一段时间的空指数值进行绘图和分析，按照具体情况给出您周围环境的空气质量优化方案。\n如果您有进一步的需要，可将数据备份到我们的云端，在更换设备后仍可继续恢复使用。\n感谢您的使用，如有更多问题请联系leyuwei126@126.com</string>
+    <string name="str_hint_open">使用前请先蓝牙连接空指检测仪\n蓝牙名称：PM-Mon\n感谢您的使用，如有问题请联系leyuwei126@126.com</string>
+	<string name="title_activity_get_city">GetCityActivity</string>
+</resources>
