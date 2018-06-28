@@ -1,5 +1,5 @@
 # AQI_and_Temp_Monitor
-Used to collect and analyze AQI and temperature values to provide a better precision. (一个具备多种数据分析显示的空气质量指数和气温采集APP)<br>
+Collecting and analyzing the AQI and temperature values to achieve better precision. (一个具备多种数据分析显示的空气质量指数和气温采集APP)<br>
 
 ## 项目性质
 不再维护和更新，此项目还有对应的51单片机采集设备C源码和Aliyun ECS服务器的PHP源码，在此不再提供。实有需要的话请通过我的profile里的联系方式与我取得联系。<br>
